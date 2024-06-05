@@ -1,2 +1,5 @@
-# 🐱 Olá, eu sou SrT!
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srtigpow) 
+# 🐱 Olá, eu sou SrT!"Mais vale um inimigo declarado do que um amigo falso."
+"Mais vale um inimigo declarado do que um amigo falso."
+
+:cat: **PowKit TEAM**
+I was born on June 27. [<t:1719457200:R>]
