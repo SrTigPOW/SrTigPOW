@@ -1,5 +1,2 @@
-# 🐱 Olá, eu sou SrT!"Mais vale um inimigo declarado do que um amigo falso."
-"Mais vale um inimigo declarado do que um amigo falso."
-
-:cat: **PowKit TEAM**
-I was born on June 27. [<t:1719457200:R>]
+# 🐱 Olá, eu sou SrT!
+Tenho 16 anos (27/06). Estou tentando aprender JavaScript e HTML. Sou dono da PowKit TEAM e crio bots para Discord.
